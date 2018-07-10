@@ -31,7 +31,6 @@ public class MainActivity extends Activity  {
         button_add = findViewById(R.id.button_add);
         button_mult = findViewById(R.id.button_mult);
         button_subt = findViewById(R.id.button_subt);
-        button_comma = findViewById(R.id.button_comma);
         button_equal = findViewById(R.id.button_equal);
         num_1 = findViewById(R.id.num_1);
         num_2 = findViewById(R.id.num_2);
